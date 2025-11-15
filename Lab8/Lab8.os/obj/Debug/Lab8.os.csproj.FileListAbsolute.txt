@@ -1,0 +1,11 @@
+C:\Users\vika\Documents\Lab8\Lab8.os\bin\Debug\Lab8.os.exe.config
+C:\Users\vika\Documents\Lab8\Lab8.os\bin\Debug\Lab8.os.exe
+C:\Users\vika\Documents\Lab8\Lab8.os\bin\Debug\Lab8.os.pdb
+C:\Users\vika\Documents\Lab8\Lab8.os\obj\Debug\Lab8.os.csproj.AssemblyReference.cache
+C:\Users\vika\Documents\Lab8\Lab8.os\obj\Debug\Lab8.os.MyBook.resources
+C:\Users\vika\Documents\Lab8\Lab8.os\obj\Debug\Lab8.os.Properties.Resources.resources
+C:\Users\vika\Documents\Lab8\Lab8.os\obj\Debug\Lab8.os.csproj.GenerateResource.cache
+C:\Users\vika\Documents\Lab8\Lab8.os\obj\Debug\Lab8.os.csproj.CoreCompileInputs.cache
+C:\Users\vika\Documents\Lab8\Lab8.os\obj\Debug\Lab8.os.exe
+C:\Users\vika\Documents\Lab8\Lab8.os\obj\Debug\Lab8.os.pdb
+C:\Users\vika\Documents\Lab8\Lab8.os\obj\Debug\Lab8.os.exe.config

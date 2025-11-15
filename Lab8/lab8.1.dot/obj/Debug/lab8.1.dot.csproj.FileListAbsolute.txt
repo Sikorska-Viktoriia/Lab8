@@ -1,0 +1,11 @@
+C:\Users\vika\Documents\Lab8\lab8.1.dot\bin\Debug\lab8.1.dot.exe.config
+C:\Users\vika\Documents\Lab8\lab8.1.dot\bin\Debug\lab8.1.dot.exe
+C:\Users\vika\Documents\Lab8\lab8.1.dot\bin\Debug\lab8.1.dot.pdb
+C:\Users\vika\Documents\Lab8\lab8.1.dot\obj\Debug\lab8.1.dot.csproj.AssemblyReference.cache
+C:\Users\vika\Documents\Lab8\lab8.1.dot\obj\Debug\Employee.resources
+C:\Users\vika\Documents\Lab8\lab8.1.dot\obj\Debug\lab8._1.dot.Properties.Resources.resources
+C:\Users\vika\Documents\Lab8\lab8.1.dot\obj\Debug\lab8.1.dot.csproj.GenerateResource.cache
+C:\Users\vika\Documents\Lab8\lab8.1.dot\obj\Debug\lab8.1.dot.csproj.CoreCompileInputs.cache
+C:\Users\vika\Documents\Lab8\lab8.1.dot\obj\Debug\lab8.1.dot.exe
+C:\Users\vika\Documents\Lab8\lab8.1.dot\obj\Debug\lab8.1.dot.pdb
+C:\Users\vika\Documents\Lab8\lab8.1.dot\obj\Debug\lab8.1.dot.exe.config
